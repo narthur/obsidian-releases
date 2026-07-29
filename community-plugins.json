@@ -14000,13 +14000,6 @@
     "repo": "code-forge-temple/circuit-sketcher-obsidian-plugin"
   },
   {
-    "id": "research-quest",
-    "name": "Research Quest",
-    "author": "narthur",
-    "description": "Use AI to generate and track research questions based on your notes.",
-    "repo": "narthur/research-quest"
-  },
-  {
     "id": "christmas",
     "name": "Christmas",
     "author": "matse2005",
